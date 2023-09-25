@@ -1,4 +1,4 @@
-package comportamentos;
+package com.comportamentos;
 
 public interface NavegadorInternet {
 

@@ -1,8 +1,8 @@
-package componente;
+package com.componente;
 
-import comportamentos.AparelhoTelefonico;
-import comportamentos.NavegadorInternet;
-import comportamentos.ReprodutorMusical;
+import com.comportamentos.AparelhoTelefonico;
+import com.comportamentos.NavegadorInternet;
+import com.comportamentos.ReprodutorMusical;
 
 public class Iphone implements AparelhoTelefonico, NavegadorInternet, ReprodutorMusical {
     @Override

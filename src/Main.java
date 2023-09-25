@@ -1,4 +1,4 @@
-import componente.Iphone;
+import com.componente.Iphone;
 
 public class Main {
     public static void main(String[] args) {
